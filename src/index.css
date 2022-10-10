@@ -1,0 +1,54 @@
+html,body{
+    padding-top: 2%;
+    height:100%;
+    width:100%;
+    background-color: #242424;
+}
+.form{
+    border-radius: 5%;
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2%;
+    padding: 2%;
+    background: gray;
+}
+
+.list{
+    width: 100%;
+    background-color: #242424;
+}
+.card{
+    border-radius: 5%;
+    margin: 1%;
+    padding: 20px;
+    background: gray;
+    width: 20%;
+    float: left;
+}
+.list-h1{
+    text-align: center;
+    color: #dddddd;
+}
+
+p, h2{
+    color: white
+}
+
+.button-card{
+    border-radius: 8px;
+    padding: 2%;
+    color: white;
+    background-color: mediumvioletred;
+}
+
+input{
+    padding: 2%;
+}
+
+button{
+    background-color: mediumpurple;
+    border-radius: 8px;
+    padding: 2%;
+    color: white;
+}
