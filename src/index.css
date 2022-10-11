@@ -5,7 +5,7 @@ html,body{
     background-color: #242424;
 }
 .form{
-    border-radius: 5%;
+    border-radius: 10px;
     width: 20%;
     margin-left: auto;
     margin-right: auto;
@@ -19,7 +19,7 @@ html,body{
     background-color: #242424;
 }
 .card{
-    border-radius: 5%;
+    border-radius: 10px;
     margin: 1%;
     padding: 20px;
     background: gray;
@@ -32,11 +32,12 @@ html,body{
 }
 
 p, h2{
+    margin-top: 0%;
     color: white
 }
 
 .button-card{
-    border-radius: 8px;
+    border-radius: 10px;
     padding: 2%;
     color: white;
     background-color: mediumvioletred;
